@@ -1,0 +1,6 @@
+现在中文编码一般使用UTF-8
+文件开头需要写入两行注释
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+第一行代表这是Python
+第二行代表这是告诉Python解释器，这是UTE-8编码
