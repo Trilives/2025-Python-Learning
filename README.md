@@ -1,4 +1,4 @@
-# 2025年自学Python 笔记
+# 2025-自学Python 笔记
 学习Python的心得过程
 
 到官网安装Python和Pycharm：
